@@ -387,7 +387,7 @@ class CfgWeapons
 	// ---------------------------------------------------------------------------------
 
 	class 187_Clone_Helmet_Airborne;
-	/*class 187_Clone_Helmet_Benson: 187_Clone_Helmet_Airborne LEFT THE UNIT
+	class 187_Clone_Helmet_Benson: 187_Clone_Helmet_Airborne LEFT THE UNIT
 	{
 		author 	= "PraetorPanda";
 		dlc		= "187th Aux Mod";
@@ -395,7 +395,7 @@ class CfgWeapons
 		scopeCurator = 2;
 		displayName = "[187th] Clone Custom Helmet (Benson)";
 		hiddenSelectionsTextures[] = {"\187th-aux\Data\Helmets\187thHelmet_Benson.paa"};
-	};*/
+	};
 
 	class 187_Clone_Helmet_Locust: 187_Clone_Helmet_Airborne
 	{
