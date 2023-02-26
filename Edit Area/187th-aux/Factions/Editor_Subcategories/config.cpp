@@ -68,8 +68,16 @@ class cfgEditorSubcategories
 	{
 		displayName="Crates";
 	};
+	class 187th_Bacta
+	{
+		displayName="Medical Tank";
+	};
 	class 187th_Argon
 	{
 		displayName="Argon";
+	};
+	class 187th_Special2
+	{
+		displayName="Special";
 	};
 };

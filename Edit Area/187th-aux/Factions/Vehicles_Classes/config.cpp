@@ -68,4 +68,8 @@ class CfgVehicleClasses
 	{
 		displayName="Crates";
 	};
+	class 187th_Bacta
+	{
+		displayName="Medical Tank";
+	};
 };
